@@ -1,0 +1,5 @@
+*
+!cases/
+cases/*
+!cases/**/*
+!.gitignore
